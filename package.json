@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "node-xml": "^1.0.2"
+  }
+}
